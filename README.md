@@ -1,4 +1,4 @@
-FindMinElemOfArray. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms. 
+FindMinElemOfArray. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms.
 The console application project is written in Java using the Apache NetBeans integrated development environment (the Microsoft Visual Studio Code editor). 
 It features simple input/output. It also handles arrays and random numbers. Finding the minimum element in an array is also possible.
 The program does the following:
